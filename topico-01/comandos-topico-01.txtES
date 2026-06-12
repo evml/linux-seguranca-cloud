@@ -1,0 +1,43 @@
+Vamos descrever algums dos comandos Linux usandos e qual a sua finalidade 
+
+1.  cd - permite navegar entre os diretório
+
+2. ls - permite listar pastas e ficheiros que temos dentro do diretorio que foi execcutado o comando em questão
+
+3. mkdir - permite criar uma pasta 
+
+4. touch - comando que permite criar ficheiro  
+
+5. rm - permite remove ficheiro
+
+6. rmdir - permite remover pasta 
+
+7. nano - permite abri/editar conteúdso em um arquivo
+
+8. cat - permite ver o conteúdos que temos em um arquivo
+
+9. hostname
+   Finalidade: Identificar o nome da máquina Linux.
+
+10. whoami
+   Finalidade: Identificar o utilizador autenticado.
+
+11. pwd
+   Finalidade: Mostrar o diretório atual.
+
+12. uname -a
+   Finalidade: Consultar informações do kernel e sistema operativo.
+
+13. hostname -I
+   Finalidade: Consultar o endereço IP da máquina.
+
+14. df -h
+   Finalidade: Consultar o espaço disponível em disco.
+
+15. free -h
+   Finalidade: Consultar a utilização da memória RAM.
+
+16. tree
+   Finalidade: Visualizar a estrutura de diretórios criada.
+ 
+

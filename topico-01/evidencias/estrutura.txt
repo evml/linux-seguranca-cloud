@@ -1,0 +1,11 @@
+/home/erica/linux-seguranca-cloud
+├── ambiente.md
+├── produto-final
+└── topico-01
+    ├── comandos-topico-01.txt
+    ├── comandos-topico-01.txtES
+    ├── evidencias
+    │   └── estrutura.txt
+    └── README.md
+
+4 directories, 5 files
