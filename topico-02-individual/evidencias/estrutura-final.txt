@@ -1,0 +1,18 @@
+/home/erica/linux-seguranca-cloud/topico-02-individual
+├── acesso-remoto.md
+├── comandos-utilizados.txt
+├── evidencias
+│   ├── estrutura-final.txt
+│   ├── execucao-script.txt
+│   ├── groups.txt
+│   ├── id.txt
+│   ├── permissoes-finais.txt
+│   ├── permissoes-iniciais.txt
+│   └── utilizador.txt
+├── permissoes.md
+└── teste
+    ├── publico.txt
+    ├── restrito.txt
+    └── script.sh
+
+3 directories, 13 files

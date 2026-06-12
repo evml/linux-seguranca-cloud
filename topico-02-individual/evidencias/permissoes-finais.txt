@@ -1,0 +1,4 @@
+total 4
+-rw-r--r-- 1 erica erica  0 Jun 12 22:17 publico.txt
+-rw-r----- 1 erica erica  0 Jun 12 22:17 restrito.txt
+-rwxrw-r-- 1 erica erica 48 Jun 12 22:17 script.sh

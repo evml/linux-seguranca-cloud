@@ -1,0 +1,28 @@
+# Comandos utilizados
+
+1. whoami
+   Finalidade: Identificar o utilizador autenticado.
+
+2. id
+   Finalidade: Consultar o UID, GID e grupos do utilizador.
+
+3. groups
+   Finalidade: Listar os grupos aos quais o utilizador pertence.
+
+4. mkdir
+   Finalidade: Criar diretórios.
+
+5. touch
+   Finalidade: Criar ficheiros vazios.
+
+6. ls -l
+   Finalidade: Visualizar permissões e proprietários dos ficheiros.
+
+7. chmod
+   Finalidade: Alterar permissões de acesso.
+
+8. ./script.sh
+   Finalidade: Executar um script local.
+
+9. ssh-keygen
+   Finalidade: Gerar um par de chaves SSH para autenticação segura.
