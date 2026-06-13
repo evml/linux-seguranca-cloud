@@ -1,0 +1,14 @@
+/home/erica/linux-seguranca-cloud/topico-03
+└── atividade-individual
+    ├── comandos.txt
+    ├── evidencias
+    │   └── estrutura.txt
+    ├── publicacao.md
+    ├── README.md
+    ├── site
+    │   ├── index.html
+    │   ├── sobre.html
+    │   └── style.css
+    └── validacao.md
+
+4 directories, 8 files

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Iniciativa Digital</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Iniciativa Digital Linux Segurança Cloud</h1>
+
+```
+<p>Pequeno serviço web desenvolvido no Tópico 3.</p>
+
+<h2>Componentes utilizados</h2>
+<ul>
+    <li>Ubuntu Linux</li>
+    <li>Nginx</li>
+    <li>HTML</li>
+    <li>CSS</li>
+</ul>
+
+<p><a href="sobre.html">Sobre o projeto</a></p>
+```
+
+</body>
+</html>
