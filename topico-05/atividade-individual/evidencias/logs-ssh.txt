@@ -1,0 +1,22 @@
+jun 12 21:48:12 server-erica systemd[1]: Stopped ssh.service - OpenBSD Secure Shell server.
+-- Boot 8e79cffbd0b54b4bac3ff1f26109eee7 --
+jun 12 22:15:15 server-erica systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+jun 12 22:15:15 server-erica sshd[1375]: Server listening on 0.0.0.0 port 22.
+jun 12 22:15:15 server-erica sshd[1375]: Server listening on :: port 22.
+jun 12 22:15:15 server-erica systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+jun 12 22:15:56 server-erica sshd-session[1741]: Accepted password for erica from 192.168.122.1 port 52822 ssh2
+jun 12 22:15:56 server-erica sshd-session[1741]: pam_unix(sshd:session): session opened for user erica(uid=1000) by erica(uid=0)
+-- Boot 8f0ed69e59384f77aa549faa83008f94 --
+jun 13 22:53:55 server-erica systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+jun 13 22:53:55 server-erica systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+jun 13 22:53:55 server-erica sshd[1404]: Server listening on 0.0.0.0 port 22.
+jun 13 22:53:55 server-erica sshd[1404]: Server listening on :: port 22.
+jun 13 22:53:59 server-erica unix_chkpwd[1568]: password check failed for user (erica)
+jun 13 22:53:59 server-erica sshd-session[1435]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.122.1  user=erica
+jun 13 22:54:01 server-erica sshd-session[1435]: Failed password for erica from 192.168.122.1 port 52716 ssh2
+jun 13 22:54:05 server-erica sshd-session[1435]: Accepted password for erica from 192.168.122.1 port 52716 ssh2
+jun 13 22:54:05 server-erica sshd-session[1435]: pam_unix(sshd:session): session opened for user erica(uid=1000) by erica(uid=0)
+jun 13 23:39:07 server-erica systemd[1]: Stopping ssh.service - OpenBSD Secure Shell server...
+jun 13 23:39:07 server-erica sshd[13006]: Server listening on 0.0.0.0 port 22.
+jun 13 23:39:07 server-erica sshd[13006]: Server listening on :: port 22.
+jun 13 23:39:07 server-erica systemd[1]: Started ssh.service - OpenBSD Secure Shell server.

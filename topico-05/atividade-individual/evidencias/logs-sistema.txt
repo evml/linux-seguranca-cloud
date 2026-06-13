@@ -1,0 +1,30 @@
+jun 13 23:39:40 server-erica systemd[1]: Finished esm-cache.service - Update the local ESM caches.
+jun 13 23:39:42 server-erica systemd[1]: apt-daily.service: Deactivated successfully.
+jun 13 23:39:42 server-erica systemd[1]: Finished apt-daily.service - Daily apt download activities.
+jun 13 23:39:42 server-erica systemd[1]: apt-daily.service: Consumed 2.804s CPU time over 35.175s wall clock time, 164.3M memory peak.
+jun 13 23:40:04 server-erica systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+jun 13 23:40:04 server-erica systemd[1]: sysstat-collect.service: Deactivated successfully.
+jun 13 23:40:04 server-erica systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+jun 13 23:40:31 server-erica kernel: workqueue: drm_fb_helper_damage_work hogged CPU for >10000us 7 times, consider switching to WQ_UNBOUND
+jun 13 23:44:13 server-erica sudo[15190]: pam_unix(sudo:session): session opened for user root(uid=0) by erica(uid=1000)
+jun 13 23:44:13 server-erica sudo[15190]: erica : TTY=/dev/pts/0 ; PWD=/home/erica/linux-seguranca-cloud ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+jun 13 23:44:31 server-erica sudo[15190]: pam_unix(sudo:session): session closed for user root
+jun 13 23:44:33 server-erica sudo[15223]: pam_unix(sudo:session): session opened for user root(uid=0) by erica(uid=1000)
+jun 13 23:44:33 server-erica sudo[15223]: erica : TTY=/dev/pts/0 ; PWD=/home/erica/linux-seguranca-cloud ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+jun 13 23:44:33 server-erica sudo[15223]: pam_unix(sudo:session): session closed for user root
+jun 13 23:44:42 server-erica PackageKit[12999]: daemon quit
+jun 13 23:44:42 server-erica systemd[1]: packagekit.service: Deactivated successfully.
+jun 13 23:44:44 server-erica sudo[15238]: pam_unix(sudo:session): session opened for user root(uid=0) by erica(uid=1000)
+jun 13 23:44:44 server-erica sudo[15238]: erica : TTY=/dev/pts/0 ; PWD=/home/erica/linux-seguranca-cloud ; USER=root ; COMMAND=/usr/bin/journalctl -n 30
+jun 13 23:44:55 server-erica sudo[15238]: pam_unix(sudo:session): session closed for user root
+jun 13 23:44:56 server-erica sudo[15253]: pam_unix(sudo:session): session opened for user root(uid=0) by erica(uid=1000)
+jun 13 23:44:56 server-erica sudo[15253]: erica : TTY=/dev/pts/0 ; PWD=/home/erica/linux-seguranca-cloud ; USER=root ; COMMAND=/usr/bin/journalctl -n 30
+jun 13 23:44:58 server-erica sudo[15253]: pam_unix(sudo:session): session closed for user root
+jun 13 23:45:01 server-erica sudo[15268]: pam_unix(sudo:session): session opened for user root(uid=0) by erica(uid=1000)
+jun 13 23:45:01 server-erica sudo[15268]: erica : TTY=/dev/pts/0 ; PWD=/home/erica/linux-seguranca-cloud ; USER=root ; COMMAND=/usr/bin/journalctl -u nginx -n 20
+jun 13 23:45:01 server-erica sudo[15268]: pam_unix(sudo:session): session closed for user root
+jun 13 23:45:16 server-erica sudo[15282]: pam_unix(sudo:session): session opened for user root(uid=0) by erica(uid=1000)
+jun 13 23:45:16 server-erica sudo[15282]: erica : TTY=/dev/pts/0 ; PWD=/home/erica/linux-seguranca-cloud ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh -n 20
+jun 13 23:45:17 server-erica sudo[15282]: pam_unix(sudo:session): session closed for user root
+jun 13 23:45:29 server-erica sudo[15297]: pam_unix(sudo:session): session opened for user root(uid=0) by erica(uid=1000)
+jun 13 23:45:29 server-erica sudo[15297]: erica : TTY=/dev/pts/0 ; PWD=/home/erica/linux-seguranca-cloud ; USER=root ; COMMAND=/usr/bin/journalctl -n 30

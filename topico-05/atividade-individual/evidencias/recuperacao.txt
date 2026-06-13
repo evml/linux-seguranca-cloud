@@ -1,0 +1,10 @@
+/home/erica/recuperacao-teste
+└── var
+    └── www
+        └── html
+            └── topico-03
+                ├── index.html
+                ├── sobre.html
+                └── style.css
+
+5 directories, 3 files
