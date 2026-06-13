@@ -8,8 +8,6 @@
 </head>
 <body>
     <h1>Iniciativa Digital Linux Segurança Cloud</h1>
-
-```
 <p>Pequeno serviço web desenvolvido no Tópico 3.</p>
 
 <h2>Componentes utilizados</h2>
@@ -21,7 +19,6 @@
 </ul>
 
 <p><a href="sobre.html">Sobre o projeto</a></p>
-```
 
 </body>
 </html>
